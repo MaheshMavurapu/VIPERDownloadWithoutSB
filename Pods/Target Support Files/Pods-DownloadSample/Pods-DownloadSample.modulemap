@@ -1,0 +1,6 @@
+framework module Pods_DownloadSample {
+  umbrella header "Pods-DownloadSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
